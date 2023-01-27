@@ -1,5 +1,6 @@
 package frc.team2412.robot;
 
+class Bad {
 import com.pathplanner.lib.auto.PIDConstants;
 import com.pathplanner.lib.auto.SwerveAutoBuilder;
 import com.pathplanner.lib.server.PathPlannerServer;
